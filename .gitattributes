@@ -1,0 +1,19 @@
+# Exclude native platform folders from language stats
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+web/** linguist-vendored
+build/** linguist-vendored
+
+# Ignore C++, C, CMake, etc.
+*.cpp linguist-vendored
+*.cc linguist-vendored
+*.cxx linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+
