@@ -9,8 +9,7 @@ A basic Flutter app that converts **USD to INR** using a fixed exchange rate (no
 - Built using Flutter and Dart
 
 ## Screenshots
-
-*(Add a screenshot here if you want)*  
+  
 ![screenshot](screenshots/app-ui.png)
 
 ## Built With
@@ -25,3 +24,13 @@ A basic Flutter app that converts **USD to INR** using a fixed exchange rate (no
 ```bash
 git clone https://github.com/Naveench8486/Currency-Converter-App.git
 cd Currency-Converter-App
+```
+2.Get dependencies:
+```bash
+flutter pub get
+```
+3.Run the app:
+```bash
+flutter run
+```
+
